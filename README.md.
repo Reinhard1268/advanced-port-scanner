@@ -1,3 +1,4 @@
+![Banner](path/to/banner-image.png)
 # Advanced Port Scanner 🔍
 A multi-threaded TCP and UDP port scanner written in Python. Supports service detection, banner grabbing, and output formatting.
 ## Features
