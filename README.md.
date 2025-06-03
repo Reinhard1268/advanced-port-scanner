@@ -1,0 +1,10 @@
+# Advanced Port Scanner 🔍
+A multi-threaded TCP and UDP port scanner written in Python. Supports service detection, banner grabbing, and output formatting.
+## Features
+- TCP/UDP scanning
+- Service detection
+- Banner grabbing
+- Threaded scanning
+## How to Run
+```bash
+python3 advanced_port_scanner.py --ip <target-ip> --protocol all
